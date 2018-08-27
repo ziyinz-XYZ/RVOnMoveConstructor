@@ -119,11 +119,19 @@ move constructor
 func3 begins
 
 ready to return
+
 copy constructor
+
 move operator = 
+
 Destroyed!
+
 Destroyed!
+
 Destroyed!
+
 Destroyed!
+
 Destroyed!
+
 Destroyed!
